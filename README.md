@@ -9,7 +9,7 @@ Les principaux objectifs de ce projet comprennent :
 - Nettoyer et préparer le jeu de données pour l'analyse.
 - Créer des visualisations pour présenter les principales conclusions et insights.
 ## Source de Données
-Le jeu de données utilisé dans ce projet a été obtenu auprès de [dataset](lien) et contient des informations sur les employés, y compris leurs détails démographiques,  leurs dates de cessation d'emploi.
+Le jeu de données utilisé dans ce projet a été obtenu auprès de [dataset](https://github.com/stivinston/Tableau_bord_employes/blob/main/Human%20Resources.csv) et contient des informations sur les employés, y compris leurs détails démographiques,  leurs dates de cessation d'emploi.
 Column | Definition
 --- | -----------
 id |  Identifiant unique pour chaque enregistrement.
