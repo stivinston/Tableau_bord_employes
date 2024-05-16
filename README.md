@@ -1,5 +1,5 @@
 # TABLEAU DE BORD EMPLOYÉS - PostgreSql+Power Bi
-[image](![image](https://github.com/stivinston/Tableau_bord_employes/assets/111785390/4d7a4fc7-38de-47f7-9fa8-fd5e097a6972))
+[image](https://github.com/stivinston/Tableau_bord_employes/assets/111785390/4d7a4fc7-38de-47f7-9fa8-fd5e097a6972
 ## Contexte
 Ce projet vise à nettoyer et à analyser les données des employés d'une organisation afin d'obtenir des informations sur la démographie des employés, les taux de rotation et d'autres informations pertinentes. L'objectif est de fournir des insights précieux aux équipes des ressources humaines et à la direction pour les aider dans les processus de prise de décision liés à la gestion des effectifs et aux stratégies de rétention des employés.
 ## Objectifs
